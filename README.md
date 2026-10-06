@@ -120,7 +120,7 @@ npm run dev
 
 本项目配套完整的实战课程，包含从原理到落地的详细讲解：
 
-- 📖 课程文档：[飞书知识库](#)（待补充）
+- 📖 课程文档：[飞书知识库](https://scnxinvxtnbo.feishu.cn/wiki/RcyIwyO8UiYaYVkHJNGcsD2VnWc)
 - 🎥 视频教程：[课程链接](#)（待补充）
 - 💬 交流社群：[加入讨论](#)（待补充）
 
